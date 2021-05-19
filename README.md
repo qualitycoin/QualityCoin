@@ -1,7 +1,7 @@
 Quality Coin for Quality Life.
 A DeFi fair Lunch Defletionary Token with Reward Tokonomics.
 
-Contract Address : 0x466ab7bdbcd7f1867cf849b790dea589da2f15ee
+Contract Address : 0xc048ff10dd1fcac9b8a05830eb318bce951976ca
 
 Block Chain Network:	Binance Smart Chain
 
