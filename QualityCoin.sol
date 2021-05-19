@@ -1,5 +1,4 @@
 
-//
 //                                                             
 //            ██████╗ ██╗   ██╗ █████╗ ██╗     ██╗████████╗██╗   ██╗
 //           ██╔═══██╗██║   ██║██╔══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝
@@ -9,11 +8,20 @@
 //              ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝ 
 //      
  
-  
-// QualityCoin 'QUALITY'
-// Website: https://qualitycoin.net
-// SPDX-License-Identifier: MIT
+ // SPDX-License-Identifier: MIT
+ 
+// QualityCoin 'QUALITY' 
+// Quality Coin for Quality Life
 
+/**
+   
+   #QualityCoin features:
+
+    1% is distributed to existing holders as rewards .
+    0.05% is burned permanently.
+    0.45% is donated directly to the Charity Account.
+   
+ */
 
 pragma solidity ^0.8.2;
 
