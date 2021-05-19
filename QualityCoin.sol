@@ -19,7 +19,7 @@
 
     1% is distributed to existing holders as rewards .
     0.05% is burned permanently.
-    0.45% is donated directly to the Charity Account.
+    0.45% is donate directly to the Charity Account.
    
  */
 
